@@ -1,9 +1,10 @@
-hi Ohad
+change#1
 BAZHAM RANDOM TEXT 2
 Lorem ipsum dolor sit amet,
 consectetuer adipiscing elit.
 <<<<<<< HEAD
 commodo ligula eget dolor.
+change#2
 massa.
 =======
  commodo ligula eget dolor.
