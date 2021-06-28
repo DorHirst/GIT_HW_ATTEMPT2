@@ -1,18 +1,18 @@
 change#1
 BAZHAM RANDOM TEXT 2
 Lorem ipsum dolor sit amet,
-consectetuer adipiscing elit.
+
 <<<<<<< HEAD
 commodo ligula eget dolor.
 change#2
 massa.
 =======
- commodo ligula eget dolor.
+ comm09090901929odo ligula --BABABABABAJBJKAKJDJHAKJDH____eget dolor.
  massa.
 >>>>>>> 9cb16ee28f0349cb236f19710c4e4379d4277a75
 
 ---CHANGE FOR PYCHARM--
-nascetur ridiculus mus.
+nascetur ___CHANGESCHANGES___ ridiculus mus.
 Donec quam felis, ultricies ---BAZHAM CHANGE FOR PYCHARM--- nec, pellentesque eu, pretium quis, sem.
 Nulla consequat massa quis enim.
 Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu.
