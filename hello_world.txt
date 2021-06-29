@@ -1,5 +1,5 @@
 hi Ohad
-BAZHAM RANDOM TEXT 2
+RANDOM TEXT 2
 Lorem ipsum dolor sit amet,
 consectetuer adipiscing elit.
 <<<<<<< HEAD
